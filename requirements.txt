@@ -184,7 +184,7 @@ termcolor==2.3.0
 text-unidecode==1.3
 threadpoolctl==3.2.0
 tifffile==2023.12.9
-torch==1.9.1
+torch==2.7.1
 torchaudio==0.9.1
 torchvision==0.10.1
 tornado==6.5.1
