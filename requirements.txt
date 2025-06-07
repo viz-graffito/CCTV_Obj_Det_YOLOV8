@@ -199,7 +199,7 @@ ultralytics==8.0.238
 urllib3==1.26.16
 uvicorn==0.24.0.post1
 validators==0.22.0
-waitress==2.1.2
+waitress==3.0.1
 watchdog==3.0.0
 wcwidth==0.2.6
 websocket-client==1.6.3
